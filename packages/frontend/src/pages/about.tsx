@@ -61,6 +61,17 @@ export default function HomePage({ ...props }: SharedStaticProps) {
                 </a>
                 )
               </li>
+              li>
+                Daniel (
+                <a href="https://github.com/ShopifyHunter0206/" target="_blank">
+                  @daniel_abc
+                </a>
+                ,{' '}
+                <a href="https://zoma.dev" target="_blank">
+                  zoma.dev
+                </a>
+                )
+              </li>
               <li>
                 Mike (
                 <a href="https://twitter.com/mike1third" target="_blank">
